@@ -11,7 +11,7 @@
 ✍️ &nbsp;I've worked on multiple technologies. Currently in love with NextJs.\
 💬 &nbsp;Feel free to reach out to me for any jobs, suggestions, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at <b>manavkush@gmail.com</b> ! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume]() for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/manavkush/profile/master/assets/Night-Coding.gif" align="right"/>
 
@@ -37,7 +37,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/manavkush">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manavkush&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manavkush&layout=compact&langs_count=8&theme=algolia"/>
 </a>
